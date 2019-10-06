@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hellov</string>
+    <string name="default_notification_channel_id">Hellov</string>/>
+</resources>

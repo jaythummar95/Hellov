@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994787317423",
+    "firebase_url": "https://hellov.firebaseio.com",
+    "project_id": "hellov",
+    "storage_bucket": "hellov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994787317423:android:e3f42bbcf4b6393d",
+        "android_client_info": {
+          "package_name": "com.hellov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994787317423-esciavp9cg04n42tqg2q8fcloasr12mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellov",
+            "certificate_hash": "4aa5e1e842a924a40c3e8ce5e160ff6c4dddf1fc"
+          }
+        },
+        {
+          "client_id": "994787317423-drhnpotq8h0e27lbiivah2k95gi9v4js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOUCJQfXyz7-6DoOetsnAze2Gsts5PIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994787317423-drhnpotq8h0e27lbiivah2k95gi9v4js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
