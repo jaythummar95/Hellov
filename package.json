@@ -16,7 +16,7 @@
     "react-native-device-info": "^2.1.2",
     "react-native-drawer-layout": "^2.0.0",
     "react-native-event-bus": "^1.0.0",
-    "react-native-fbsdk": "^0.8.0",
+    "react-native-fbsdk": "^3.0.0",
     "react-native-firebase": "^5.4.2",
     "react-native-geocoding": "^0.3.0",
     "react-native-gesture-handler": "^1.2.1",
